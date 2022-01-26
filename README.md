@@ -6,21 +6,23 @@ New movies are released every year, some of them become very successful with ver
 
 
 ## Question
-If new film released, how much it will make?
+If a new film released, how much it will make?
 
-Data:
-
-Data base that going to be use is The Northwind database
-Database has 14 tables.
+## Data:
+Data has been collected from different websites using web scraping. These websites are, 
+* "https://www.rottentomatoes.com" data extracted are rating, type, language, Director, Producer, Writer, Release Date, Runtime and Distributor.
+* "https://www.wikipedia.org", get last five year films' names. 
+* "https://www.the-numbers.com" get films' ranks  
 
 
 ## Tools
-### SQL
-### Tableau
-### Numpy
-### Pandas
-### squarify
-### pywaffle
+* SQL
+* Tableau
+* Numpy
+* Pandas
+* BeautifulSoup
+* Selenium
+* Requests
 
 
 
